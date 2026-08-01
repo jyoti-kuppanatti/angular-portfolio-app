@@ -21,10 +21,10 @@ export class HomeComponent implements OnInit, OnDestroy {
   dynamicText: string = "";
   phrases: string[] =[
     "Team Player.",
-    "Software Developer.",
-    "Backend Engineer.",
-    "Software Engineer.",
-    "Fullstack Developer.",
+    "SDET.",
+    "Senior QA Automation Engineer.",
+    "Test Automation Architect.",
+    "Fullstack QA Engineer.",
     "Code Enthusiast.",
   ];
 
@@ -36,7 +36,7 @@ export class HomeComponent implements OnInit, OnDestroy {
   delayBetweenPhrases: number = 2000;
 
   constructor(private titleService: Title) {
-    this.titleService.setTitle('BC | Home')
+    this.titleService.setTitle('JK | Home')
   }
 
 

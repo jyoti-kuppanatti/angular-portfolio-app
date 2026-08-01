@@ -29,9 +29,9 @@ describe('HomeComponent', () => {
     expect(component).toBeTruthy();
   });
 
-  it('should set page title to "BC | Home"', () => {
+  it('should set page title to "JK | Home"', () => {
     const titleService = TestBed.inject(Title);
-    expect(titleService.getTitle()).toBe('BC | Home');
+    expect(titleService.getTitle()).toBe('JK | Home');
   });
 
   it('should initialise dynamicText as an empty string before ngOnInit', () => {

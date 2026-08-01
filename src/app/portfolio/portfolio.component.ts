@@ -16,7 +16,7 @@ export class PortfolioComponent {
   projects: Card[] = PROJECTS;
 
   constructor(private titleService: Title) {
-    this.titleService.setTitle('BC | Portfolio')
+    this.titleService.setTitle('JK | Portfolio')
   }
 
   trackById(index: number, project: Card): number {
