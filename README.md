@@ -1,6 +1,6 @@
 # JK | Angular Portfolio App
 
-This is my personal portfolio website built with **Angular 21**, Typescript, HTML5, CSS3, Bootstrap, Bootstrap Icons, RxJS, Vite, Angular Material and tests in Jasmine. It's currently deployed on the web: [https://angular-portfolio-app-omega.vercel.app/](https://angular-portfolio-app-omega.vercel.app/)
+This is my personal portfolio website built with **Angular 21**, Typescript, HTML5, CSS3, Bootstrap, Bootstrap Icons, RxJS, Vite, Angular Material and tests in Jasmine. It's currently deployed on the web: [https://angular-portfolio-app-nine.vercel.app/](https://angular-portfolio-app-nine.vercel.app/)
 
 ![Jyoti Kuppanatti's Angular Portfolio App](portfolio.png)
 
