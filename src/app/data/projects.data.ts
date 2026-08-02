@@ -11,4 +11,22 @@ export const PROJECTS: Card[] = [
     tags: [Tag.PLAYWWRIGHT, Tag.TYPESCRIPT],
     pictures: []
   },
+  {
+    id: 2,
+    name: 'Selenium Java Automation Framework',
+    summary: 'An end-to-end UI test automation framework built with Selenium WebDriver and Java, following the Page Object Model design pattern.',
+    description: "This framework demonstrates UI test automation practices using Selenium WebDriver and Java. It follows the Page Object Model to keep page interactions and test logic cleanly separated, and uses JUnit for structuring and running the test suite. The project showcases the same test automation principles applied professionally, adapted here as a standalone Java-based framework.",
+    projectLink: 'https://github.com/jyoti-kuppanatti/selenium-java-automation-framework',
+    tags: [Tag.SELENIUM, Tag.JAVA, Tag.JUNIT],
+    pictures: []
+  },
+  {
+    id: 3,
+    name: 'Angular Portfolio App',
+    summary: 'A personal portfolio web application built with Angular and TypeScript, showcasing projects and experience with a clean, responsive UI.',
+    description: "This portfolio site is built with Angular and TypeScript, using a component-driven architecture to present projects, experience, and skills in a clean, responsive layout. It's styled with HTML5 and CSS3, and structured to make it easy to add new projects over time.",
+    projectLink: 'https://github.com/jyoti-kuppanatti/angular-portfolio-app',
+    tags: [Tag.ANGULAR, Tag.TYPESCRIPT, Tag.HTML5, Tag.CSS3],
+    pictures: []
+  },
 ];
