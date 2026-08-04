@@ -29,4 +29,13 @@ export const PROJECTS: Card[] = [
     tags: [Tag.ANGULAR, Tag.TYPESCRIPT, Tag.HTML5, Tag.CSS3],
     pictures: []
   },
+  {
+    id: 4,
+    name: 'Playwright Java Framework',
+    summary: 'An end-to-end UI test automation framework built with Playwright and Java, following the Page Object Model design pattern.',
+    description: "This framework demonstrates UI test automation practices using Playwright with Java. It follows the Page Object Model to keep page interactions and test logic cleanly separated, and uses JUnit for structuring and running the test suite. The project showcases the same test automation principles applied professionally, adapted here as a standalone Java-based Playwright framework.",
+    projectLink: 'https://github.com/jyoti-kuppanatti/playwright-java-framework',
+    tags: [Tag.PLAYWWRIGHT, Tag.JAVA, Tag.JUNIT],
+    pictures: []
+  },
 ];
